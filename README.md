@@ -44,5 +44,3 @@ Technologies Used (if coded in JavaScript):
 HTML – For the game layout (buttons, score display).
 CSS – For styling and animations.
 JavaScript – To handle game logic, user input, and sequence generation.
-Would you like a more detailed breakdown of the code structure or gameplay improvements? 🚀
-
