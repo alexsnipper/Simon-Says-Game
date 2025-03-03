@@ -7,7 +7,7 @@ Game Starts – The game flashes a random color.
 Player's Turn – The player must click the colors in the same order as shown.
 Sequence Increases – If the player gets it right, the game adds another color to the sequence.
 Game Over – If the player makes a mistake, the game ends, and they must restart.
-Main Features:
+**Main Features:**
 ✅ Randomized Sequences – Each round, a new color is added to the sequence.
 ✅ Audio & Visual Feedback – Flashing lights and sounds help players memorize the pattern.
 ✅ Increasing Difficulty – The sequence gets longer after every correct attempt.
