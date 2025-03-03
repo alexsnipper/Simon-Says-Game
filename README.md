@@ -45,4 +45,4 @@ HTML – For the game layout (buttons, score display).
 CSS – For styling and animations.
 JavaScript – To handle game logic, user input, and sequence generation.
 Would you like a more detailed breakdown of the code structure or gameplay improvements? 🚀
->>>>>>> 45784d83811f012804d7caec617ce8fce2702619
+
